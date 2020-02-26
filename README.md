@@ -1,5 +1,5 @@
-# Gera-o-de-Faces
-Projetinho com GANs !!!! 
+# Generate Faces with Generative Adversarial Network
+Projetinho com GANs 
 ## Fontes 
 
 https://www.udemy.com/tensorflow-machine-learning-deep-learning-python/
